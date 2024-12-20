@@ -1,0 +1,188 @@
+[
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\User\\app_main.c.obj -c \"C:\\AA Audio\\NeoBalsam\\User\\app_main.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\User\\app_main.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\User\\app_main.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\User\\ARGB.c.obj -c \"C:\\AA Audio\\NeoBalsam\\User\\ARGB.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\User\\ARGB.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\User\\ARGB.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\main.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\main.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\gpio.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\gpio.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\gpio.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\gpio.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\dma.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\dma.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\dma.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\dma.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\tim.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\tim.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\tim.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\tim.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\usb_drd_fs.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\usb_drd_fs.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\usb_drd_fs.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\usb_drd_fs.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\stm32g0xx_it.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\stm32g0xx_it.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\stm32g0xx_it.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\stm32g0xx_it.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\stm32g0xx_hal_msp.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\stm32g0xx_hal_msp.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\stm32g0xx_hal_msp.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\stm32g0xx_hal_msp.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_rcc.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_rcc.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_rcc.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_rcc.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_gpio.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_gpio.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_gpio.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_gpio.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_cortex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_cortex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_cortex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_cortex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_exti.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_exti.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_exti.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_exti.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd_ex.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd_ex.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd_ex.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_hal_pcd_ex.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_usb.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_usb.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_usb.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Drivers\\STM32G0xx_HAL_Driver\\Src\\stm32g0xx_ll_usb.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\system_stm32g0xx.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\system_stm32g0xx.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\system_stm32g0xx.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\system_stm32g0xx.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\sysmem.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\sysmem.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -g -std=gnu11 -o CMakeFiles\\NeoBalsam.dir\\Core\\Src\\syscalls.c.obj -c \"C:\\AA Audio\\NeoBalsam\\Core\\Src\\syscalls.c\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\NeoBalsam.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "C:/AA Audio/NeoBalsam/build/Debug",
+  "command": "C:\\ST\\STM32CubeCLT_1.15.1\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32G0B1xx -DUSE_HAL_DRIVER -I\"C:/AA Audio/NeoBalsam/User\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Core/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32G0xx/Include\" -I\"C:/AA Audio/NeoBalsam/cmake/stm32cubemx/../../Drivers/CMSIS/Include\"  -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -mcpu=cortex-m0plus  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\NeoBalsam.dir\\startup_stm32g0b1xx.s.obj -c \"C:\\AA Audio\\NeoBalsam\\startup_stm32g0b1xx.s\"",
+  "file": "C:\\AA Audio\\NeoBalsam\\startup_stm32g0b1xx.s",
+  "output": "CMakeFiles\\NeoBalsam.dir\\startup_stm32g0b1xx.s.obj"
+}
+]

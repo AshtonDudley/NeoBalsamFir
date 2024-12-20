@@ -1,0 +1,5 @@
+C:/AA Audio/NeoBalsam/build/Debug/CMakeFiles/NeoBalsam.dir
+C:/AA Audio/NeoBalsam/build/Debug/CMakeFiles/edit_cache.dir
+C:/AA Audio/NeoBalsam/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/AA Audio/NeoBalsam/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/AA Audio/NeoBalsam/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
