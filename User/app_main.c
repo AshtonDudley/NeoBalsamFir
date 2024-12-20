@@ -12,16 +12,18 @@ extern DMA_HandleTypeDef hdma_tim1_ch1;
 #define STAR_PIXEL 14
 
 typedef enum {
-    SHOW_OFF        =   0,
-    SHOW_BREATHING  =   1,
-    SHOW_INTENSE    =   2,
-    SHOW_RAINBOW    =   3,
+    SHOW_OFF            =   0,
+    SHOW_BREATHING      =   1,
+    SHOW_INTENSE        =   2,
+    SHOW_RAINBOW        =   3,
+    SHOW_CANDLE         =   4,
+    SHOW_TWINKLE_STARS  =   5,
     NUM_OF_SHOWS    
 } t_ShowType;
 
 t_ShowType currentShow = 0;
 
-
+bool buttonPressed = 0;
 
 
 void app_init(){
@@ -41,7 +43,10 @@ static uint8_t oscillateBrightness(float t, float period, uint8_t minVal, uint8_
 
 void show_off (uint32_t frame){
     (void)frame;
-    
+    ARGB_FillRGB(0,0,0);
+    ARGB_FillHSV(0,0,0);
+    ARGB_FillWhite(0);
+    HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, SET); // Disable Indicator LED
 }
 
 void show_breathing (uint32_t frame){
@@ -98,6 +103,72 @@ void show_rainbow_fade(uint32_t frame) {
     }
 }
 
+// Flickering Candle Effect
+// Adjust ranges as needed for desired look.
+void show_candle(uint32_t frame) {
+    // Base hue for a warm flame: around orange (~43°)
+    uint8_t hue = 43;
+    for (uint16_t i = 0; i < NUM_PIXELS; i++) {
+        // Generate random saturation and value
+        // rand() % (max-min+1) + min gives a random number in [min, max].
+        uint8_t sat_min = 180;
+        uint8_t sat_max = 255;
+        uint8_t val_min = 40;
+        uint8_t val_max = 120;
+
+        uint8_t sat = (uint8_t)(rand() % (sat_max - sat_min + 1) + sat_min);
+        uint8_t val = (uint8_t)(rand() % (val_max - val_min + 1) + val_min);
+
+        ARGB_SetHSV(i, hue, sat, val);
+    }
+}
+
+void show_twinkle_stars(uint32_t frame) {
+    static uint8_t starBrightness[NUM_PIXELS];
+
+    uint8_t bgHue = 160;   // Blue-ish hue
+    uint8_t bgSat = 255;
+    uint8_t bgVal = 20;    // Dim background
+    
+    // Probability of twinkle each frame: about 1 in 30
+    int twinkleChance = 30;
+    // Randomly pick a star to twinkle sometimes
+    if ((rand() % twinkleChance) == 0) {
+        uint16_t i = rand() % NUM_PIXELS;
+        // Only twinkle if it's currently dim to avoid overlapping twinkles
+        if (starBrightness[i] < 10) {
+            starBrightness[i] = 255; // Bright white twinkle
+        }
+    }
+    
+    // Update star brightness for each LED
+    // Fade out any twinkling stars
+    for (uint16_t i = 0; i < NUM_PIXELS; i++) {
+        if (starBrightness[i] > 0) {
+            // Fade out star: reduce brightness by ~10 each frame
+            // Adjust fade speed as desired
+            int newVal = (int)starBrightness[i] - 10;
+            starBrightness[i] = (uint8_t)((newVal < 0) ? 0 : newVal);
+        }
+    }
+    
+    // Set each LED color
+    // Combine background and star brightness:
+    // The star is white, so we can blend by using starBrightness as the final V 
+    // in HSV with hue/sat for white (sat=0 for pure white).
+    // Alternatively, just set it to white if starBrightness is higher than background.
+    for (uint16_t i = 0; i < NUM_PIXELS; i++) {
+        if (starBrightness[i] > bgVal) {
+            // Star dominates, show white
+            // For white, saturation=0
+            ARGB_SetHSV(i, 0, 0, starBrightness[i]);
+        } else {
+            // Just show background color
+            ARGB_SetHSV(i, bgHue, bgSat, bgVal);
+        }
+    }
+}
+
 void app_main(){
     
     HAL_NVIC_EnableIRQ(EXTI0_1_IRQn);
@@ -123,18 +194,31 @@ void app_main(){
                 break;
             case SHOW_RAINBOW:
                 show_rainbow_fade(frame);
+                break;
+            case SHOW_CANDLE:
+                show_candle(frame);
+                break;
+            case SHOW_TWINKLE_STARS:
+                show_twinkle_stars(frame);
+                break;
             default:
                 break;
+        }
+
+        if (buttonPressed) {
+            buttonPressed = false;
+            currentShow = (currentShow + 1) % NUM_OF_SHOWS;
         }
 
         ARGB_Show();
         HAL_Delay(FRAME_DELAY_MS);
         frame++;
+        
     }
 }
 
 void HAL_GPIO_EXTI_Rising_Callback(uint16_t GPIO_Pin) {
     if (GPIO_Pin == USER_BUTTON_Pin){
-        currentShow = (currentShow + 1) % NUM_OF_SHOWS;
+        buttonPressed = true;
     }
 }
