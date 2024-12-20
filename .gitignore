@@ -1,0 +1,52 @@
+# Ignore build directories for all CubeMX projects
+**/Build/
+
+# General STM32 build and temp files
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.out
+*.d
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# STM32CubeIDE files
+*.launch
+*.settings
+.project
+.cproject
+.uxp
+
+# Temporary/system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+
+# Debugger files
+*.dep
+*.gdb
+.gdbinit
+
+# Logs and temporary files
+*.log
+
+# Auto-generated sources
+**/Core/Startup/*.c
+**/Core/Startup/*.s
