@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "main.h": "c"
+        "main.h": "c",
+        "argb.h": "c"
     },
     "cSpell.words": [
         "hdma",

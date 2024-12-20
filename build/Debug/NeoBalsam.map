@@ -68,6 +68,10 @@ C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.
                               CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (__aeabi_i2f)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
                               CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (__aeabi_ui2f)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+                              CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (__aeabi_dadd)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+                              CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (__aeabi_ddiv)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
                               CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (__aeabi_dmul)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
@@ -92,10 +96,20 @@ C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o) (__ledf2)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg_nano.a(libc_a-errno.o)
                               CMakeFiles/NeoBalsam.dir/Core/Src/sysmem.c.obj (__errno)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
+                              CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (sin)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
                               CMakeFiles/NeoBalsam.dir/User/app_main.c.obj (sinf)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
                               CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj (floorf)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o) (__kernel_cos)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o) (__kernel_sin)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o) (__ieee754_rem_pio2)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o) (fabs)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o) (__kernel_cosf)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
@@ -104,10 +118,18 @@ C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o) (__ieee754_rem_pio2f)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o) (fabsf)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o) (__kernel_rem_pio2)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o) (__kernel_rem_pio2f)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o) (scalbn)
 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
                               C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o) (scalbnf)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o) (floor)
+C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+                              C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o) (__aeabi_i2d)
 
 Discarded input sections
 
@@ -402,6 +424,12 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
  .rodata.CHANNEL_OFFSET_TAB
                 0x00000000        0x7 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .text.get_sine_brightness
+                0x00000000      0x114 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .text.global_brightness_sweep
+                0x00000000       0x34 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .bss.lastTick.0
+                0x00000000        0x4 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
  .group         0x00000000        0xc CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .group         0x00000000        0xc CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .group         0x00000000        0xc CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
@@ -475,21 +503,12 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .rodata.CHANNEL_OFFSET_TAB
                 0x00000000        0x7 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .text.ARGB_Clear
-                0x00000000       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .text.ARGB_SetHSV
-                0x00000000       0x68 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .text.ARGB_SetWhite
                 0x00000000       0x5c CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .text.ARGB_FillHSV
                 0x00000000       0x5c CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .text.ARGB_FillWhite
                 0x00000000       0x50 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .text.ARGB_Ready
-                0x00000000       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .text.HSV2RGB  0x00000000      0x274 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .rodata.HSV2RGB
-                0x00000000       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .debug_macro   0x00000000      0xa8a CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .debug_macro   0x00000000      0x12a CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .debug_macro   0x00000000       0x2e CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
@@ -3930,6 +3949,10 @@ Discarded input sections
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
@@ -3978,30 +4001,95 @@ Discarded input sections
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
+ .text.sinf     0x00000000       0x70 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
+ .text.__kernel_cosf
+                0x00000000      0x100 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
+ .debug_frame   0x00000000       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
+ .text.__kernel_sinf
+                0x00000000       0xe8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
+ .debug_frame   0x00000000       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+ .text.__ieee754_rem_pio2f
+                0x00000000      0x2c4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.npio2_hw
+                0x00000000       0x80 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+ .rodata.two_over_pi
+                0x00000000      0x318 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+ .debug_frame   0x00000000       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
+ .text.fabsf    0x00000000        0x6 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
+ .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .text.__kernel_rem_pio2f
+                0x00000000      0x540 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .rodata.PIo2   0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .rodata.init_jk
+                0x00000000        0xc C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .debug_frame   0x00000000       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
  .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
  .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
  .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+ .text.scalbnf  0x00000000       0xac C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+ .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+ .ARM.attributes
+                0x00000000       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+ .text          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+ .data          0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+ .bss           0x00000000        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
 
 Memory Configuration
 
@@ -4072,7 +4160,7 @@ LOAD C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x08000000                g_pfnVectors
                 0x080000bc                        . = ALIGN (0x4)
 
-.text           0x080000bc     0x7504
+.text           0x080000bc     0x8a70
                 0x080000bc                        . = ALIGN (0x4)
  *(.text)
  .text          0x080000bc       0x48 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
@@ -4125,453 +4213,474 @@ LOAD C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x080011b4                __aeabi_i2f
  .text          0x0800124c       0x84 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
                 0x0800124c                __aeabi_ui2f
- .text          0x080012d0      0x590 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
-                0x080012d0                __aeabi_dmul
- .text          0x08001860      0x738 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
-                0x08001860                __aeabi_dsub
- .text          0x08001f98       0x78 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
-                0x08001f98                __aeabi_d2iz
- .text          0x08002010       0x48 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
-                0x08002010                __aeabi_ui2d
- .text          0x08002058       0x90 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
-                0x08002058                __aeabi_f2d
- .text          0x080020e8      0x108 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
-                0x080020e8                __aeabi_d2f
- .text          0x080021f0       0x7c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
-                0x080021f0                __aeabi_cdrcmple
-                0x08002200                __aeabi_cdcmple
-                0x08002200                __aeabi_cdcmpeq
-                0x08002210                __aeabi_dcmpeq
-                0x0800221c                __aeabi_dcmplt
-                0x08002230                __aeabi_dcmple
-                0x08002244                __aeabi_dcmpgt
-                0x08002258                __aeabi_dcmpge
- .text          0x0800226c       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
-                0x0800226c                __clzsi2
- .text          0x080022a8       0x88 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
-                0x080022a8                __nedf2
-                0x080022a8                __eqdf2
- .text          0x08002330       0xe8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
-                0x08002330                __gedf2
-                0x08002330                __gtdf2
- .text          0x08002418       0xe4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
-                0x08002418                __ledf2
-                0x08002418                __ltdf2
+ .text          0x080012d0      0x6c8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+                0x080012d0                __aeabi_dadd
+ .text          0x08001998      0x634 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+                0x08001998                __aeabi_ddiv
+ .text          0x08001fcc      0x590 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                0x08001fcc                __aeabi_dmul
+ .text          0x0800255c      0x738 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                0x0800255c                __aeabi_dsub
+ .text          0x08002c94       0x78 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                0x08002c94                __aeabi_d2iz
+ .text          0x08002d0c       0x48 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+                0x08002d0c                __aeabi_ui2d
+ .text          0x08002d54       0x90 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
+                0x08002d54                __aeabi_f2d
+ .text          0x08002de4      0x108 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
+                0x08002de4                __aeabi_d2f
+ .text          0x08002eec       0x7c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x08002eec                __aeabi_cdrcmple
+                0x08002efc                __aeabi_cdcmple
+                0x08002efc                __aeabi_cdcmpeq
+                0x08002f0c                __aeabi_dcmpeq
+                0x08002f18                __aeabi_dcmplt
+                0x08002f2c                __aeabi_dcmple
+                0x08002f40                __aeabi_dcmpgt
+                0x08002f54                __aeabi_dcmpge
+ .text          0x08002f68       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x08002f68                __clzsi2
+ .text          0x08002fa4       0x88 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                0x08002fa4                __nedf2
+                0x08002fa4                __eqdf2
+ .text          0x0800302c       0xe8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                0x0800302c                __gedf2
+                0x0800302c                __gtdf2
+ .text          0x08003114       0xe4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                0x08003114                __ledf2
+                0x08003114                __ltdf2
+ .text          0x080031f8       0x5c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
+                0x080031f8                __aeabi_i2d
  *(.text*)
- .text.memset   0x080024fc       0x10 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-memset.o)
-                0x080024fc                memset
+ .text.memset   0x08003254       0x10 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-memset.o)
+                0x08003254                memset
  .text.__libc_init_array
-                0x0800250c       0x48 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-init.o)
-                0x0800250c                __libc_init_array
- .text.get_sine_brightness
-                0x08002554      0x114 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
-                0x08002554                get_sine_brightness
+                0x08003264       0x48 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-init.o)
+                0x08003264                __libc_init_array
  .text.app_init
-                0x08002668        0xa CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
-                0x08002668                app_init
+                0x080032ac        0xa CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+                0x080032ac                app_init
+ *fill*         0x080032b6        0x2 
+ .text.oscillateBrightness
+                0x080032b8       0xdc CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
  .text.app_main
-                0x08002672       0x42 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
-                0x08002672                app_main
+                0x08003394      0x104 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+                0x08003394                app_main
  .text.ARGB_Init
-                0x080026b4       0xe8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x080026b4                ARGB_Init
+                0x08003498       0xe8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003498                ARGB_Init
+ .text.ARGB_Clear
+                0x08003580       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003580                ARGB_Clear
  .text.ARGB_SetBrightness
-                0x0800279c       0x20 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x0800279c                ARGB_SetBrightness
+                0x08003594       0x20 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003594                ARGB_SetBrightness
  .text.ARGB_SetRGB
-                0x080027bc      0x164 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x080027bc                ARGB_SetRGB
+                0x080035b4      0x164 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x080035b4                ARGB_SetRGB
+ .text.ARGB_SetHSV
+                0x08003718       0x68 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003718                ARGB_SetHSV
  .text.ARGB_FillRGB
-                0x08002920       0x66 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x08002920                ARGB_FillRGB
- *fill*         0x08002986        0x2 
+                0x08003780       0x66 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003780                ARGB_FillRGB
+ *fill*         0x080037e6        0x2 
+ .text.ARGB_Ready
+                0x080037e8       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x080037e8                ARGB_Ready
  .text.ARGB_Show
-                0x08002988      0x360 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x08002988                ARGB_Show
- .text.scale8   0x08002ce8       0x28 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x080037fc      0x360 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x080037fc                ARGB_Show
+ .text.scale8   0x08003b5c       0x28 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .text.HSV2RGB  0x08003b84      0x274 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .text.ARGB_TIM_DMADelayPulseCplt
-                0x08002d10      0x310 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x08003df8      0x310 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .text.ARGB_TIM_DMADelayPulseHalfCplt
-                0x08003020      0x1a8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .text.main     0x080031c8       0x28 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
-                0x080031c8                main
+                0x08004108      0x1a8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .text.main     0x080042b0       0x28 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+                0x080042b0                main
  .text.SystemClock_Config
-                0x080031f0       0xc4 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
-                0x080031f0                SystemClock_Config
+                0x080042d8       0xc4 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+                0x080042d8                SystemClock_Config
  .text.Error_Handler
-                0x080032b4        0xc CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
-                0x080032b4                Error_Handler
+                0x0800439c        0xc CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+                0x0800439c                Error_Handler
  .text.MX_GPIO_Init
-                0x080032c0       0x88 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
-                0x080032c0                MX_GPIO_Init
+                0x080043a8       0x88 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+                0x080043a8                MX_GPIO_Init
  .text.MX_DMA_Init
-                0x08003348       0x3c CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
-                0x08003348                MX_DMA_Init
+                0x08004430       0x3c CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+                0x08004430                MX_DMA_Init
  .text.MX_TIM1_Init
-                0x08003384      0x194 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
-                0x08003384                MX_TIM1_Init
+                0x0800446c      0x194 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x0800446c                MX_TIM1_Init
  .text.HAL_TIM_Base_MspInit
-                0x08003518       0xec CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
-                0x08003518                HAL_TIM_Base_MspInit
+                0x08004600       0xec CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x08004600                HAL_TIM_Base_MspInit
  .text.HAL_TIM_MspPostInit
-                0x08003604       0x7c CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
-                0x08003604                HAL_TIM_MspPostInit
+                0x080046ec       0x7c CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x080046ec                HAL_TIM_MspPostInit
  .text.MX_USB_DRD_FS_PCD_Init
-                0x08003680       0x6c CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
-                0x08003680                MX_USB_DRD_FS_PCD_Init
+                0x08004768       0x6c CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+                0x08004768                MX_USB_DRD_FS_PCD_Init
  .text.HAL_PCD_MspInit
-                0x080036ec       0xb0 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
-                0x080036ec                HAL_PCD_MspInit
+                0x080047d4       0xb0 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+                0x080047d4                HAL_PCD_MspInit
  .text.NMI_Handler
-                0x0800379c        0x8 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x0800379c                NMI_Handler
+                0x08004884        0x8 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08004884                NMI_Handler
  .text.HardFault_Handler
-                0x080037a4        0x8 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037a4                HardFault_Handler
+                0x0800488c        0x8 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800488c                HardFault_Handler
  .text.SVC_Handler
-                0x080037ac        0xa CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037ac                SVC_Handler
+                0x08004894        0xa CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x08004894                SVC_Handler
  .text.PendSV_Handler
-                0x080037b6        0xa CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037b6                PendSV_Handler
+                0x0800489e        0xa CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x0800489e                PendSV_Handler
  .text.SysTick_Handler
-                0x080037c0        0xe CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037c0                SysTick_Handler
- *fill*         0x080037ce        0x2 
+                0x080048a8        0xe CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x080048a8                SysTick_Handler
+ *fill*         0x080048b6        0x2 
  .text.DMA1_Channel1_IRQHandler
-                0x080037d0       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037d0                DMA1_Channel1_IRQHandler
+                0x080048b8       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x080048b8                DMA1_Channel1_IRQHandler
  .text.TIM1_BRK_UP_TRG_COM_IRQHandler
-                0x080037e8       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x080037e8                TIM1_BRK_UP_TRG_COM_IRQHandler
+                0x080048d0       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x080048d0                TIM1_BRK_UP_TRG_COM_IRQHandler
  .text.TIM1_CC_IRQHandler
-                0x08003800       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
-                0x08003800                TIM1_CC_IRQHandler
+                0x080048e8       0x18 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x080048e8                TIM1_CC_IRQHandler
  .text.HAL_MspInit
-                0x08003818       0x50 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
-                0x08003818                HAL_MspInit
+                0x08004900       0x50 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                0x08004900                HAL_MspInit
  .text.HAL_TIM_Base_Init
-                0x08003868       0xb0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003868                HAL_TIM_Base_Init
+                0x08004950       0xb0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004950                HAL_TIM_Base_Init
  .text.HAL_TIM_PWM_Init
-                0x08003918       0xb0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003918                HAL_TIM_PWM_Init
+                0x08004a00       0xb0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004a00                HAL_TIM_PWM_Init
  .text.HAL_TIM_PWM_MspInit
-                0x080039c8       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x080039c8                HAL_TIM_PWM_MspInit
+                0x08004ab0       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004ab0                HAL_TIM_PWM_MspInit
  .text.HAL_TIM_IRQHandler
-                0x080039d8      0x210 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x080039d8                HAL_TIM_IRQHandler
+                0x08004ac0      0x210 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004ac0                HAL_TIM_IRQHandler
  .text.HAL_TIM_PWM_ConfigChannel
-                0x08003be8      0x200 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003be8                HAL_TIM_PWM_ConfigChannel
+                0x08004cd0      0x200 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004cd0                HAL_TIM_PWM_ConfigChannel
  .text.HAL_TIM_ConfigClockSource
-                0x08003de8      0x1ac CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003de8                HAL_TIM_ConfigClockSource
+                0x08004ed0      0x1ac CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08004ed0                HAL_TIM_ConfigClockSource
  .text.HAL_TIM_PeriodElapsedCallback
-                0x08003f94       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003f94                HAL_TIM_PeriodElapsedCallback
+                0x0800507c       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x0800507c                HAL_TIM_PeriodElapsedCallback
  .text.HAL_TIM_OC_DelayElapsedCallback
-                0x08003fa4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003fa4                HAL_TIM_OC_DelayElapsedCallback
+                0x0800508c       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x0800508c                HAL_TIM_OC_DelayElapsedCallback
  .text.HAL_TIM_IC_CaptureCallback
-                0x08003fb4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003fb4                HAL_TIM_IC_CaptureCallback
+                0x0800509c       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x0800509c                HAL_TIM_IC_CaptureCallback
  .text.HAL_TIM_PWM_PulseFinishedCallback
-                0x08003fc4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003fc4                HAL_TIM_PWM_PulseFinishedCallback
+                0x080050ac       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080050ac                HAL_TIM_PWM_PulseFinishedCallback
  .text.HAL_TIM_TriggerCallback
-                0x08003fd4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003fd4                HAL_TIM_TriggerCallback
+                0x080050bc       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080050bc                HAL_TIM_TriggerCallback
  .text.HAL_TIM_ErrorCallback
-                0x08003fe4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003fe4                HAL_TIM_ErrorCallback
+                0x080050cc       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080050cc                HAL_TIM_ErrorCallback
  .text.TIM_DMAError
-                0x08003ff4       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08003ff4                TIM_DMAError
+                0x080050dc       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080050dc                TIM_DMAError
  .text.TIM_Base_SetConfig
-                0x08004088      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08004088                TIM_Base_SetConfig
+                0x08005170      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005170                TIM_Base_SetConfig
  .text.TIM_OC1_SetConfig
-                0x080041b8      0x114 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080052a0      0x114 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_OC2_SetConfig
-                0x080042cc      0x108 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x080042cc                TIM_OC2_SetConfig
+                0x080053b4      0x108 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080053b4                TIM_OC2_SetConfig
  .text.TIM_OC3_SetConfig
-                0x080043d4      0x110 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080054bc      0x110 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_OC4_SetConfig
-                0x080044e4       0xd4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080055cc       0xd4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_OC5_SetConfig
-                0x080045b8       0xc0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080056a0       0xc0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_OC6_SetConfig
-                0x08004678       0xc8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005760       0xc8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_TI1_ConfigInputStage
-                0x08004740       0x5c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005828       0x5c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_TI2_ConfigInputStage
-                0x0800479c       0x64 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005884       0x64 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_ITRx_SetConfig
-                0x08004800       0x38 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x080058e8       0x38 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .text.TIM_ETR_SetConfig
-                0x08004838       0x40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08004838                TIM_ETR_SetConfig
+                0x08005920       0x40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005920                TIM_ETR_SetConfig
  .text.TIM_CCxChannelCmd
-                0x08004878       0x46 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
-                0x08004878                TIM_CCxChannelCmd
- *fill*         0x080048be        0x2 
+                0x08005960       0x46 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08005960                TIM_CCxChannelCmd
+ *fill*         0x080059a6        0x2 
  .text.HAL_TIMEx_MasterConfigSynchronization
-                0x080048c0       0xec CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
-                0x080048c0                HAL_TIMEx_MasterConfigSynchronization
+                0x080059a8       0xec CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x080059a8                HAL_TIMEx_MasterConfigSynchronization
  .text.HAL_TIMEx_ConfigBreakDeadTime
-                0x080049ac      0x138 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
-                0x080049ac                HAL_TIMEx_ConfigBreakDeadTime
+                0x08005a94      0x138 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x08005a94                HAL_TIMEx_ConfigBreakDeadTime
  .text.HAL_TIMEx_CommutCallback
-                0x08004ae4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
-                0x08004ae4                HAL_TIMEx_CommutCallback
+                0x08005bcc       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x08005bcc                HAL_TIMEx_CommutCallback
  .text.HAL_TIMEx_BreakCallback
-                0x08004af4       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
-                0x08004af4                HAL_TIMEx_BreakCallback
+                0x08005bdc       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x08005bdc                HAL_TIMEx_BreakCallback
  .text.HAL_TIMEx_Break2Callback
-                0x08004b04       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
-                0x08004b04                HAL_TIMEx_Break2Callback
+                0x08005bec       0x10 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x08005bec                HAL_TIMEx_Break2Callback
  .text.LL_RCC_GetAPB1Prescaler
-                0x08004b14       0x18 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08005bfc       0x18 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x08004b2c      0x6c0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08004b2c                HAL_RCC_OscConfig
+                0x08005c14      0x6c0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x08005c14                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x080051ec      0x210 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x080051ec                HAL_RCC_ClockConfig
+                0x080062d4      0x210 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080062d4                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080053fc      0x104 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x080053fc                HAL_RCC_GetSysClockFreq
+                0x080064e4      0x104 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080064e4                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x08005500       0x14 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08005500                HAL_RCC_GetHCLKFreq
+                0x080065e8       0x14 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080065e8                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x08005514       0x2c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
-                0x08005514                HAL_RCC_GetPCLK1Freq
+                0x080065fc       0x2c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x080065fc                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCCEx_PeriphCLKConfig
-                0x08005540      0x478 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
-                0x08005540                HAL_RCCEx_PeriphCLKConfig
+                0x08006628      0x478 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x08006628                HAL_RCCEx_PeriphCLKConfig
  .text.HAL_GPIO_Init
-                0x080059b8      0x2d8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                0x080059b8                HAL_GPIO_Init
+                0x08006aa0      0x2d8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x08006aa0                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08005c90       0x3a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
-                0x08005c90                HAL_GPIO_WritePin
- *fill*         0x08005cca        0x2 
+                0x08006d78       0x3a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x08006d78                HAL_GPIO_WritePin
+ *fill*         0x08006db2        0x2 
  .text.HAL_DMA_Init
-                0x08005ccc      0x158 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08005ccc                HAL_DMA_Init
+                0x08006db4      0x158 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08006db4                HAL_DMA_Init
  .text.HAL_DMA_Start_IT
-                0x08005e24      0x10c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08005e24                HAL_DMA_Start_IT
+                0x08006f0c      0x10c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08006f0c                HAL_DMA_Start_IT
  .text.HAL_DMA_Abort_IT
-                0x08005f30       0xd0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08005f30                HAL_DMA_Abort_IT
+                0x08007018       0xd0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08007018                HAL_DMA_Abort_IT
  .text.HAL_DMA_IRQHandler
-                0x08006000      0x188 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
-                0x08006000                HAL_DMA_IRQHandler
+                0x080070e8      0x188 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x080070e8                HAL_DMA_IRQHandler
  .text.DMA_SetConfig
-                0x08006188       0x78 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x08007270       0x78 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.DMA_CalcDMAMUXChannelBaseAndMask
-                0x08006200       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x080072e8       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.DMA_CalcDMAMUXRequestGenBaseAndMask
-                0x08006294       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x0800737c       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .text.HAL_PWREx_EnableVddUSB
-                0x080062dc       0x1c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
-                0x080062dc                HAL_PWREx_EnableVddUSB
+                0x080073c4       0x1c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x080073c4                HAL_PWREx_EnableVddUSB
  .text.HAL_PWREx_ControlVoltageScaling
-                0x080062f8       0x80 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
-                0x080062f8                HAL_PWREx_ControlVoltageScaling
+                0x080073e0       0x80 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x080073e0                HAL_PWREx_ControlVoltageScaling
  .text.__NVIC_EnableIRQ
-                0x08006378       0x34 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08007460       0x34 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x080063ac       0xdc CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08007494       0xdc CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.SysTick_Config
-                0x08006488       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08007570       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriority
-                0x080064d0       0x2a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x080064d0                HAL_NVIC_SetPriority
+                0x080075b8       0x2a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x080075b8                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x080064fa       0x20 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x080064fa                HAL_NVIC_EnableIRQ
+                0x080075e2       0x20 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x080075e2                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x0800651a       0x1a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
-                0x0800651a                HAL_SYSTICK_Config
+                0x08007602       0x1a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x08007602                HAL_SYSTICK_Config
  .text.HAL_Init
-                0x08006534       0x40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08006534                HAL_Init
+                0x0800761c       0x40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800761c                HAL_Init
  .text.HAL_InitTick
-                0x08006574       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08006574                HAL_InitTick
+                0x0800765c       0x94 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x0800765c                HAL_InitTick
  .text.HAL_IncTick
-                0x08006608       0x24 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08006608                HAL_IncTick
+                0x080076f0       0x24 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x080076f0                HAL_IncTick
  .text.HAL_GetTick
-                0x0800662c       0x14 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x0800662c                HAL_GetTick
+                0x08007714       0x14 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08007714                HAL_GetTick
  .text.HAL_Delay
-                0x08006640       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08006640                HAL_Delay
+                0x08007728       0x48 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08007728                HAL_Delay
  .text.HAL_SYSCFG_StrobeDBattpinsConfig
-                0x08006688       0x2c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x08006688                HAL_SYSCFG_StrobeDBattpinsConfig
+                0x08007770       0x2c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x08007770                HAL_SYSCFG_StrobeDBattpinsConfig
  .text.HAL_PCD_Init
-                0x080066b4      0x1f4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
-                0x080066b4                HAL_PCD_Init
+                0x0800779c      0x1f4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+                0x0800779c                HAL_PCD_Init
  .text.HAL_PCDEx_ActivateLPM
-                0x080068a8       0x44 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
-                0x080068a8                HAL_PCDEx_ActivateLPM
+                0x08007990       0x44 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+                0x08007990                HAL_PCDEx_ActivateLPM
  .text.USB_DisableGlobalInt
-                0x080068ec       0x28 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
-                0x080068ec                USB_DisableGlobalInt
+                0x080079d4       0x28 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+                0x080079d4                USB_DisableGlobalInt
  .text.USB_SetCurrentMode
-                0x08006914       0x4a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
-                0x08006914                USB_SetCurrentMode
+                0x080079fc       0x4a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+                0x080079fc                USB_SetCurrentMode
  .text.USB_DevInit
-                0x0800695e       0x56 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
-                0x0800695e                USB_DevInit
+                0x08007a46       0x56 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+                0x08007a46                USB_DevInit
  .text.SystemInit
-                0x080069b4        0xa CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
-                0x080069b4                SystemInit
- *fill*         0x080069be        0x2 
+                0x08007a9c        0xa CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08007a9c                SystemInit
+ *fill*         0x08007aa6        0x2 
  .text.Reset_Handler
-                0x080069c0       0x50 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
-                0x080069c0                Reset_Handler
+                0x08007aa8       0x50 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+                0x08007aa8                Reset_Handler
  .text.Default_Handler
-                0x08006a10        0x2 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
-                0x08006a10                I2C2_3_IRQHandler
-                0x08006a10                USART3_4_5_6_LPUART1_IRQHandler
-                0x08006a10                ADC1_COMP_IRQHandler
-                0x08006a10                I2C1_IRQHandler
-                0x08006a10                TIM7_LPTIM2_IRQHandler
-                0x08006a10                TIM17_FDCAN_IT1_IRQHandler
-                0x08006a10                DMA1_Ch4_7_DMA2_Ch1_5_DMAMUX1_OVR_IRQHandler
-                0x08006a10                RCC_CRS_IRQHandler
-                0x08006a10                RTC_TAMP_IRQHandler
-                0x08006a10                SPI1_IRQHandler
-                0x08006a10                USB_UCPD1_2_IRQHandler
-                0x08006a10                EXTI2_3_IRQHandler
-                0x08006a10                USART2_LPUART2_IRQHandler
-                0x08006a10                PVD_VDDIO2_IRQHandler
-                0x08006a10                EXTI4_15_IRQHandler
-                0x08006a10                Default_Handler
-                0x08006a10                CEC_IRQHandler
-                0x08006a10                TIM14_IRQHandler
-                0x08006a10                TIM15_IRQHandler
-                0x08006a10                TIM3_TIM4_IRQHandler
-                0x08006a10                EXTI0_1_IRQHandler
-                0x08006a10                SPI2_3_IRQHandler
-                0x08006a10                TIM6_DAC_LPTIM1_IRQHandler
-                0x08006a10                WWDG_IRQHandler
-                0x08006a10                TIM2_IRQHandler
-                0x08006a10                DMA1_Channel2_3_IRQHandler
-                0x08006a10                FLASH_IRQHandler
-                0x08006a10                USART1_IRQHandler
-                0x08006a10                TIM16_FDCAN_IT0_IRQHandler
- *fill*         0x08006a12        0x2 
- .text.sinf     0x08006a14       0x70 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
-                0x08006a14                sinf
- .text.floorf   0x08006a84       0x84 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
-                0x08006a84                floorf
- .text.__kernel_cosf
-                0x08006b08      0x100 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
-                0x08006b08                __kernel_cosf
- .text.__kernel_sinf
-                0x08006c08       0xe8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
-                0x08006c08                __kernel_sinf
- .text.__ieee754_rem_pio2f
-                0x08006cf0      0x2c4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
-                0x08006cf0                __ieee754_rem_pio2f
- .text.fabsf    0x08006fb4        0x6 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
-                0x08006fb4                fabsf
- *fill*         0x08006fba        0x2 
- .text.__kernel_rem_pio2f
-                0x08006fbc      0x540 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
-                0x08006fbc                __kernel_rem_pio2f
- .text.scalbnf  0x080074fc       0xac C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
-                0x080074fc                scalbnf
+                0x08007af8        0x2 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+                0x08007af8                I2C2_3_IRQHandler
+                0x08007af8                USART3_4_5_6_LPUART1_IRQHandler
+                0x08007af8                ADC1_COMP_IRQHandler
+                0x08007af8                I2C1_IRQHandler
+                0x08007af8                TIM7_LPTIM2_IRQHandler
+                0x08007af8                TIM17_FDCAN_IT1_IRQHandler
+                0x08007af8                DMA1_Ch4_7_DMA2_Ch1_5_DMAMUX1_OVR_IRQHandler
+                0x08007af8                RCC_CRS_IRQHandler
+                0x08007af8                RTC_TAMP_IRQHandler
+                0x08007af8                SPI1_IRQHandler
+                0x08007af8                USB_UCPD1_2_IRQHandler
+                0x08007af8                EXTI2_3_IRQHandler
+                0x08007af8                USART2_LPUART2_IRQHandler
+                0x08007af8                PVD_VDDIO2_IRQHandler
+                0x08007af8                EXTI4_15_IRQHandler
+                0x08007af8                Default_Handler
+                0x08007af8                CEC_IRQHandler
+                0x08007af8                TIM14_IRQHandler
+                0x08007af8                TIM15_IRQHandler
+                0x08007af8                TIM3_TIM4_IRQHandler
+                0x08007af8                EXTI0_1_IRQHandler
+                0x08007af8                SPI2_3_IRQHandler
+                0x08007af8                TIM6_DAC_LPTIM1_IRQHandler
+                0x08007af8                WWDG_IRQHandler
+                0x08007af8                TIM2_IRQHandler
+                0x08007af8                DMA1_Channel2_3_IRQHandler
+                0x08007af8                FLASH_IRQHandler
+                0x08007af8                USART1_IRQHandler
+                0x08007af8                TIM16_FDCAN_IT0_IRQHandler
+ *fill*         0x08007afa        0x2 
+ .text.sin      0x08007afc       0x88 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
+                0x08007afc                sin
+ .text.floorf   0x08007b84       0x84 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
+                0x08007b84                floorf
+ .text.__kernel_cos
+                0x08007c08      0x180 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+                0x08007c08                __kernel_cos
+ .text.__kernel_sin
+                0x08007d88      0x158 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+                0x08007d88                __kernel_sin
+ .text.__ieee754_rem_pio2
+                0x08007ee0      0x3b8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+                0x08007ee0                __ieee754_rem_pio2
+ .text.fabs     0x08008298        0x8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+                0x08008298                fabs
+ .text.__kernel_rem_pio2
+                0x080082a0      0x6a4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+                0x080082a0                __kernel_rem_pio2
+ .text.scalbn   0x08008944       0xd8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+                0x08008944                scalbn
+ .text.floor    0x08008a1c       0xf8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+                0x08008a1c                floor
  *(.glue_7)
- .glue_7        0x080075a8        0x0 linker stubs
+ .glue_7        0x08008b14        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080075a8        0x0 linker stubs
+ .glue_7t       0x08008b14        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080075a8        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x08008b14        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
  *(.init)
- .init          0x080075a8        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
-                0x080075a8                _init
- .init          0x080075ac        0x8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+ .init          0x08008b14        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+                0x08008b14                _init
+ .init          0x08008b18        0x8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
  *(.fini)
- .fini          0x080075b4        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
-                0x080075b4                _fini
- .fini          0x080075b8        0x8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
-                0x080075c0                        . = ALIGN (0x4)
-                0x080075c0                        _etext = .
+ .fini          0x08008b20        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crti.o
+                0x08008b20                _fini
+ .fini          0x08008b24        0x8 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+                0x08008b2c                        . = ALIGN (0x4)
+                0x08008b2c                        _etext = .
 
-.vfp11_veneer   0x080075c0        0x0
- .vfp11_veneer  0x080075c0        0x0 linker stubs
+.vfp11_veneer   0x08008b2c        0x0
+ .vfp11_veneer  0x08008b2c        0x0 linker stubs
 
-.v4_bx          0x080075c0        0x0
- .v4_bx         0x080075c0        0x0 linker stubs
+.v4_bx          0x08008b2c        0x0
+ .v4_bx         0x08008b2c        0x0 linker stubs
 
-.iplt           0x080075c0        0x0
- .iplt          0x080075c0        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x08008b2c        0x0
+ .iplt          0x08008b2c        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x080075c0      0x500
-                0x080075c0                        . = ALIGN (0x4)
+.rodata         0x08008b30      0x360
+                0x08008b30                        . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x080075c0       0x7c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .rodata        0x08008b30       0x7c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .rodata        0x08008bac       0x40 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
  *(.rodata*)
+ .rodata.HSV2RGB
+                0x08008bec       0x14 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .rodata.HAL_TIM_PWM_ConfigChannel
-                0x0800763c       0x54 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x08008c00       0x54 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .rodata.AHBPrescTable
-                0x08007690       0x40 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
-                0x08007690                AHBPrescTable
+                0x08008c54       0x40 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08008c54                AHBPrescTable
  .rodata.APBPrescTable
-                0x080076d0       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
-                0x080076d0                APBPrescTable
+                0x08008c94       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+                0x08008c94                APBPrescTable
  .rodata.npio2_hw
-                0x080076f0       0x80 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+                0x08008cb4       0x80 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
  .rodata.two_over_pi
-                0x08007770      0x318 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
- .rodata.PIo2   0x08007a88       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+                0x08008d34      0x108 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+ *fill*         0x08008e3c        0x4 
+ .rodata.PIo2   0x08008e40       0x40 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
  .rodata.init_jk
-                0x08007ab4        0xc C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
-                0x08007ac0                        . = ALIGN (0x4)
+                0x08008e80       0x10 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+                0x08008e90                        . = ALIGN (0x4)
 
-.rel.dyn        0x08007ac0        0x0
- .rel.iplt      0x08007ac0        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+.rel.dyn        0x08008e90        0x0
+ .rel.iplt      0x08008e90        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x08007ac0        0x0
-                0x08007ac0                        __exidx_start = .
+.ARM            0x08008e90        0x0
+                0x08008e90                        __exidx_start = .
  *(.ARM.exidx*)
-                0x08007ac0                        __exidx_end = .
+                0x08008e90                        __exidx_end = .
 
-.preinit_array  0x08007ac0        0x0
-                0x08007ac0                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08008e90        0x0
+                0x08008e90                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08007ac0                        PROVIDE (__preinit_array_end = .)
+                0x08008e90                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x08007ac0        0x4
-                0x08007ac0                        PROVIDE (__init_array_start = .)
+.init_array     0x08008e90        0x4
+                0x08008e90                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x08007ac0        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
-                0x08007ac4                        PROVIDE (__init_array_end = .)
+ .init_array    0x08008e90        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x08008e94                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x08007ac4        0x4
+.fini_array     0x08008e94        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08007ac4        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
+ .fini_array    0x08008e94        0x4 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x08007ac8                        _sidata = LOADADDR (.data)
+                0x08008e98                        _sidata = LOADADDR (.data)
 
-.data           0x20000000       0x10 load address 0x08007ac8
+.data           0x20000000       0x10 load address 0x08008e98
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -4592,53 +4701,52 @@ LOAD C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
                 0x20000010                        . = ALIGN (0x4)
                 0x20000010                        _edata = .
 
-.igot.plt       0x20000010        0x0 load address 0x08007ad8
+.igot.plt       0x20000010        0x0 load address 0x08008ea8
  .igot.plt      0x20000010        0x0 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
                 0x20000010                        . = ALIGN (0x4)
 
-.bss            0x20000010      0x4a8 load address 0x08007ad8
+.bss            0x20000010      0x4a4 load address 0x08008ea8
                 0x20000010                        _sbss = .
                 0x20000010                        __bss_start__ = _sbss
  *(.bss)
  .bss           0x20000010       0x1c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtbegin.o
  *(.bss*)
- .bss.lastTick.0
-                0x2000002c        0x4 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .bss.PWM_HI    0x20000030        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000030                PWM_HI
- .bss.PWM_LO    0x20000031        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000031                PWM_LO
- *fill*         0x20000032        0x2 
- .bss.RGB_BUF   0x20000034       0x2d CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000034                RGB_BUF
- *fill*         0x20000061        0x3 
- .bss.PWM_BUF   0x20000064       0xc0 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000064                PWM_BUF
+ .bss.PWM_HI    0x2000002c        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x2000002c                PWM_HI
+ .bss.PWM_LO    0x2000002d        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x2000002d                PWM_LO
+ *fill*         0x2000002e        0x2 
+ .bss.RGB_BUF   0x20000030       0x2d CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x20000030                RGB_BUF
+ *fill*         0x2000005d        0x3 
+ .bss.PWM_BUF   0x20000060       0xc0 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x20000060                PWM_BUF
  .bss.BUF_COUNTER
-                0x20000124        0x2 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000124                BUF_COUNTER
+                0x20000120        0x2 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x20000120                BUF_COUNTER
  .bss.ARGB_LOC_ST
-                0x20000126        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
-                0x20000126                ARGB_LOC_ST
- *fill*         0x20000127        0x1 
- .bss.htim1     0x20000128       0x4c CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
-                0x20000128                htim1
+                0x20000122        0x1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x20000122                ARGB_LOC_ST
+ *fill*         0x20000123        0x1 
+ .bss.htim1     0x20000124       0x4c CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x20000124                htim1
  .bss.hdma_tim1_ch1
-                0x20000174       0x60 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
-                0x20000174                hdma_tim1_ch1
+                0x20000170       0x60 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x20000170                hdma_tim1_ch1
  .bss.hpcd_USB_DRD_FS
-                0x200001d4      0x2e0 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
-                0x200001d4                hpcd_USB_DRD_FS
- .bss.uwTick    0x200004b4        0x4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
-                0x200004b4                uwTick
+                0x200001d0      0x2e0 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+                0x200001d0                hpcd_USB_DRD_FS
+ .bss.uwTick    0x200004b0        0x4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x200004b0                uwTick
  *(COMMON)
-                0x200004b8                        . = ALIGN (0x4)
-                0x200004b8                        _ebss = .
-                0x200004b8                        __bss_end__ = _ebss
+                0x200004b4                        . = ALIGN (0x4)
+                0x200004b4                        _ebss = .
+                0x200004b4                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x200004b8      0x600 load address 0x08007ad8
+                0x200004b4      0x604 load address 0x08008ea8
                 0x200004b8                        . = ALIGN (0x8)
+ *fill*         0x200004b4        0x4 
                 [!provide]                        PROVIDE (end = .)
                 0x200004b8                        PROVIDE (_end = .)
                 0x200006b8                        . = (. + _Min_Heap_Size)
@@ -4746,45 +4854,53 @@ LOAD C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .ARM.attributes
                 0x000006e8       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
  .ARM.attributes
-                0x00000714       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+                0x00000714       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
  .ARM.attributes
-                0x00000740       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+                0x00000740       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
  .ARM.attributes
-                0x0000076c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+                0x0000076c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
  .ARM.attributes
-                0x00000798       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+                0x00000798       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
  .ARM.attributes
-                0x000007c4       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
+                0x000007c4       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
  .ARM.attributes
-                0x000007f0       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
+                0x000007f0       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
  .ARM.attributes
-                0x0000081c       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x0000081c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
  .ARM.attributes
-                0x0000083a       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
+                0x00000848       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
  .ARM.attributes
-                0x00000858       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+                0x00000874       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_arm_cmpdf2.o)
  .ARM.attributes
-                0x00000884       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+                0x00000892       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_clzsi2.o)
  .ARM.attributes
-                0x000008b0       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+                0x000008b0       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
  .ARM.attributes
-                0x000008dc       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
+                0x000008dc       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
  .ARM.attributes
-                0x000008fa       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
+                0x00000908       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
  .ARM.attributes
-                0x00000926       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
+                0x00000934       0x1e C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp/crtn.o
  .ARM.attributes
-                0x00000952       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
+                0x00000952       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
  .ARM.attributes
-                0x0000097e       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
+                0x0000097e       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
  .ARM.attributes
-                0x000009aa       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
+                0x000009aa       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
  .ARM.attributes
-                0x000009d6       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
+                0x000009d6       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
  .ARM.attributes
-                0x00000a02       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
+                0x00000a02       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
  .ARM.attributes
-                0x00000a2e       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+                0x00000a2e       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+ .ARM.attributes
+                0x00000a5a       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x00000a86       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+ .ARM.attributes
+                0x00000ab2       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+ .ARM.attributes
+                0x00000ade       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
 
 .comment        0x00000000       0x43
  .comment       0x00000000       0x43 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
@@ -4811,373 +4927,377 @@ LOAD C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .comment       0x00000043       0x44 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
  .comment       0x00000043       0x44 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
 
-.debug_frame    0x00000000     0x3dd0
+.debug_frame    0x00000000     0x3ee8
  .debug_frame   0x00000000       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-memset.o)
  .debug_frame   0x00000020       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libc_nano.a(libc_a-init.o)
- .debug_frame   0x0000004c       0x70 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_frame   0x000000bc      0x1f8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .debug_frame   0x000002b4       0x68 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
- .debug_frame   0x0000031c       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
- .debug_frame   0x0000034c       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
- .debug_frame   0x0000037c       0x90 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
- .debug_frame   0x0000040c       0x6c CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
- .debug_frame   0x00000478       0xf0 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_frame   0x00000568       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_frame   0x00000598      0xf40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_frame   0x000014d8      0x620 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_frame   0x00001af8      0x214 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_frame   0x00001d0c      0x1c0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_frame   0x00001ecc      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_frame   0x00001ffc      0x1f0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_frame   0x000021ec      0x3f4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_frame   0x000025e0      0x33c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_frame   0x0000291c      0x41c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_frame   0x00002d38      0x500 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
- .debug_frame   0x00003238      0x110 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
- .debug_frame   0x00003348      0x47c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
- .debug_frame   0x000037c4       0x4c CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_frame   0x00003810       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
- .debug_frame   0x00003830       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
- .debug_frame   0x00003850       0x28 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_fixunssfsi.o)
- .debug_frame   0x00003878       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
- .debug_frame   0x000038a4       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
- .debug_frame   0x000038dc       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
- .debug_frame   0x00003914       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
- .debug_frame   0x00003940       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
- .debug_frame   0x0000396c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
- .debug_frame   0x00003998       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
- .debug_frame   0x000039d0       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
- .debug_frame   0x00003a08       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
- .debug_frame   0x00003a28       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
- .debug_frame   0x00003a54       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
- .debug_frame   0x00003a80       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
- .debug_frame   0x00003abc       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
- .debug_frame   0x00003af8       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
- .debug_frame   0x00003b28       0x28 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
- .debug_frame   0x00003b50       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
- .debug_frame   0x00003b7c       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
- .debug_frame   0x00003bac       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
- .debug_frame   0x00003be4       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
- .debug_frame   0x00003c20       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
- .debug_frame   0x00003c5c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_sin.o)
- .debug_frame   0x00003c88       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
- .debug_frame   0x00003cb8       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_cos.o)
- .debug_frame   0x00003cec       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_sin.o)
- .debug_frame   0x00003d20       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-ef_rem_pio2.o)
- .debug_frame   0x00003d50       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_fabs.o)
- .debug_frame   0x00003d70       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-kf_rem_pio2.o)
- .debug_frame   0x00003da4       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_scalbn.o)
+ .debug_frame   0x0000004c       0xb8 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_frame   0x00000104      0x1f8 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .debug_frame   0x000002fc       0x68 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_frame   0x00000364       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_frame   0x00000394       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_frame   0x000003c4       0x90 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_frame   0x00000454       0x6c CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_frame   0x000004c0       0xf0 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_frame   0x000005b0       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_frame   0x000005e0      0xf40 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_frame   0x00001520      0x620 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_frame   0x00001b40      0x214 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_frame   0x00001d54      0x1c0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_frame   0x00001f14      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_frame   0x00002044      0x1f0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_frame   0x00002234      0x3f4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_frame   0x00002628      0x33c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_frame   0x00002964      0x41c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_frame   0x00002d80      0x500 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_frame   0x00003280      0x110 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_frame   0x00003390      0x47c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_frame   0x0000380c       0x4c CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_frame   0x00003858       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_udivsi3.o)
+ .debug_frame   0x00003878       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_divsi3.o)
+ .debug_frame   0x00003898       0x28 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x000038c0       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x000038ec       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(addsf3.o)
+ .debug_frame   0x00003924       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divsf3.o)
+ .debug_frame   0x0000395c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqsf2.o)
+ .debug_frame   0x00003988       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gesf2.o)
+ .debug_frame   0x000039b4       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(lesf2.o)
+ .debug_frame   0x000039e0       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(mulsf3.o)
+ .debug_frame   0x00003a18       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subsf3.o)
+ .debug_frame   0x00003a50       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixsfsi.o)
+ .debug_frame   0x00003a70       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsisf.o)
+ .debug_frame   0x00003a9c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsisf.o)
+ .debug_frame   0x00003ac8       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(adddf3.o)
+ .debug_frame   0x00003b04       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(divdf3.o)
+ .debug_frame   0x00003b40       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(muldf3.o)
+ .debug_frame   0x00003b7c       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(subdf3.o)
+ .debug_frame   0x00003bb8       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(fixdfsi.o)
+ .debug_frame   0x00003be8       0x28 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatunsidf.o)
+ .debug_frame   0x00003c10       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(extendsfdf2.o)
+ .debug_frame   0x00003c3c       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(truncdfsf2.o)
+ .debug_frame   0x00003c6c       0x38 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(eqdf2.o)
+ .debug_frame   0x00003ca4       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(gedf2.o)
+ .debug_frame   0x00003ce0       0x3c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(ledf2.o)
+ .debug_frame   0x00003d1c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_sin.o)
+ .debug_frame   0x00003d48       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-sf_floor.o)
+ .debug_frame   0x00003d78       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_cos.o)
+ .debug_frame   0x00003da8       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_sin.o)
+ .debug_frame   0x00003dd8       0x30 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-e_rem_pio2.o)
+ .debug_frame   0x00003e08       0x20 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_fabs.o)
+ .debug_frame   0x00003e28       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-k_rem_pio2.o)
+ .debug_frame   0x00003e5c       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_scalbn.o)
+ .debug_frame   0x00003e88       0x34 C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libm.a(libm_a-s_floor.o)
+ .debug_frame   0x00003ebc       0x2c C:/ST/STM32CubeCLT_1.15.1/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v6-m/nofp\libgcc.a(floatsidf.o)
 
-.debug_info     0x00000000    0x1020b
- .debug_info    0x00000000      0x35f CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_info    0x0000035f     0x1045 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .debug_info    0x000013a4      0x341 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
- .debug_info    0x000016e5      0x3da CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
- .debug_info    0x00001abf      0x365 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
- .debug_info    0x00001e24     0x10e7 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
- .debug_info    0x00002f0b      0x8d3 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
- .debug_info    0x000037de      0x87a CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_info    0x00004058      0x278 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_info    0x000042d0     0x2c12 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_info    0x00006ee2     0x1923 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_info    0x00008805      0xb9b CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_info    0x000093a0      0xa41 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_info    0x00009de1      0x5d9 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_info    0x0000a3ba      0x869 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_info    0x0000ac23      0x8b5 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_info    0x0000b4d8      0x8d9 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_info    0x0000bdb1      0xafa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_info    0x0000c8ab     0x1502 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
- .debug_info    0x0000ddad      0x7e7 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
- .debug_info    0x0000e594     0x1931 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
- .debug_info    0x0000fec5      0x316 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_info    0x000101db       0x30 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+.debug_info     0x00000000    0x1037f
+ .debug_info    0x00000000      0x4d3 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_info    0x000004d3     0x1045 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .debug_info    0x00001518      0x341 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_info    0x00001859      0x3da CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00001c33      0x365 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_info    0x00001f98     0x10e7 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_info    0x0000307f      0x8d3 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_info    0x00003952      0x87a CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_info    0x000041cc      0x278 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_info    0x00004444     0x2c12 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_info    0x00007056     0x1923 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_info    0x00008979      0xb9b CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_info    0x00009514      0xa41 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_info    0x00009f55      0x5d9 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_info    0x0000a52e      0x869 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_info    0x0000ad97      0x8b5 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_info    0x0000b64c      0x8d9 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_info    0x0000bf25      0xafa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_info    0x0000ca1f     0x1502 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_info    0x0000df21      0x7e7 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_info    0x0000e708     0x1931 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_info    0x00010039      0x316 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_info    0x0001034f       0x30 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
 
-.debug_abbrev   0x00000000     0x2ed1
- .debug_abbrev  0x00000000      0x1d6 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_abbrev  0x000001d6      0x34c CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .debug_abbrev  0x00000522      0x1a7 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
- .debug_abbrev  0x000006c9      0x158 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x00000821      0x115 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
- .debug_abbrev  0x00000936      0x22d CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x00000b63      0x229 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
- .debug_abbrev  0x00000d8c      0x1ab CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_abbrev  0x00000f37       0xf9 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_abbrev  0x00001030      0x287 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_abbrev  0x000012b7      0x297 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_abbrev  0x0000154e      0x2aa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_abbrev  0x000017f8      0x244 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x00001a3c      0x1c8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_abbrev  0x00001c04      0x214 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_abbrev  0x00001e18      0x23c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_abbrev  0x00002054      0x2ab CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_abbrev  0x000022ff      0x27f CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_abbrev  0x0000257e      0x327 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
- .debug_abbrev  0x000028a5      0x22e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
- .debug_abbrev  0x00002ad3      0x2c1 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
- .debug_abbrev  0x00002d94      0x119 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_abbrev  0x00002ead       0x24 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+.debug_abbrev   0x00000000     0x2f2d
+ .debug_abbrev  0x00000000      0x232 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_abbrev  0x00000232      0x34c CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .debug_abbrev  0x0000057e      0x1a7 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00000725      0x158 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x0000087d      0x115 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x00000992      0x22d CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x00000bbf      0x229 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_abbrev  0x00000de8      0x1ab CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_abbrev  0x00000f93       0xf9 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_abbrev  0x0000108c      0x287 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_abbrev  0x00001313      0x297 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x000015aa      0x2aa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001854      0x244 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x00001a98      0x1c8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_abbrev  0x00001c60      0x214 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_abbrev  0x00001e74      0x23c CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x000020b0      0x2ab CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000235b      0x27f CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_abbrev  0x000025da      0x327 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_abbrev  0x00002901      0x22e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_abbrev  0x00002b2f      0x2c1 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_abbrev  0x00002df0      0x119 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_abbrev  0x00002f09       0x24 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
 
-.debug_aranges  0x00000000     0x1008
+.debug_aranges  0x00000000     0x1018
  .debug_aranges
-                0x00000000       0x30 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+                0x00000000       0x40 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
  .debug_aranges
-                0x00000030       0x90 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x00000040       0x90 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .debug_aranges
-                0x000000c0       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+                0x000000d0       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
  .debug_aranges
-                0x000000f0       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+                0x00000100       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
  .debug_aranges
-                0x00000110       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+                0x00000120       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
  .debug_aranges
-                0x00000130       0x38 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x00000140       0x38 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
  .debug_aranges
-                0x00000168       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+                0x00000178       0x30 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
  .debug_aranges
-                0x00000198       0x58 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x000001a8       0x58 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
  .debug_aranges
-                0x000001f0       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                0x00000200       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
  .debug_aranges
-                0x00000210      0x3e0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x00000220      0x3e0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .debug_aranges
-                0x000005f0      0x198 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x00000600      0x198 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .debug_aranges
-                0x00000788       0xa0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x00000798       0xa0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
  .debug_aranges
-                0x00000828       0x88 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x00000838       0x88 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
  .debug_aranges
-                0x000008b0       0x60 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x000008c0       0x60 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
  .debug_aranges
-                0x00000910       0x90 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x00000920       0x90 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .debug_aranges
-                0x000009a0      0x128 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x000009b0      0x128 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
  .debug_aranges
-                0x00000ac8       0xe8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x00000ad8       0xe8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .debug_aranges
-                0x00000bb0      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x00000bc0      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
  .debug_aranges
-                0x00000ce0      0x150 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+                0x00000cf0      0x150 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
  .debug_aranges
-                0x00000e30       0x58 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+                0x00000e40       0x58 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
  .debug_aranges
-                0x00000e88      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+                0x00000e98      0x130 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
  .debug_aranges
-                0x00000fb8       0x28 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+                0x00000fc8       0x28 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
  .debug_aranges
-                0x00000fe0       0x28 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+                0x00000ff0       0x28 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
 
 .debug_rnglists
-                0x00000000      0xc43
+                0x00000000      0xc51
  .debug_rnglists
-                0x00000000       0x20 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+                0x00000000       0x2e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
  .debug_rnglists
-                0x00000020       0x6d CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+                0x0000002e       0x6d CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
  .debug_rnglists
-                0x0000008d       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+                0x0000009b       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
  .debug_rnglists
-                0x000000ad       0x14 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+                0x000000bb       0x14 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
  .debug_rnglists
-                0x000000c1       0x13 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+                0x000000cf       0x13 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
  .debug_rnglists
-                0x000000d4       0x27 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+                0x000000e2       0x27 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
  .debug_rnglists
-                0x000000fb       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+                0x00000109       0x20 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
  .debug_rnglists
-                0x0000011b       0x3d CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+                0x00000129       0x3d CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
  .debug_rnglists
-                0x00000158       0x13 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+                0x00000166       0x13 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
  .debug_rnglists
-                0x0000016b      0x32a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+                0x00000179      0x32a CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
  .debug_rnglists
-                0x00000495      0x14e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+                0x000004a3      0x14e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
  .debug_rnglists
-                0x000005e3       0x79 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+                0x000005f1       0x79 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
  .debug_rnglists
-                0x0000065c       0x69 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+                0x0000066a       0x69 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
  .debug_rnglists
-                0x000006c5       0x45 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+                0x000006d3       0x45 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
  .debug_rnglists
-                0x0000070a       0x72 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+                0x00000718       0x72 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
  .debug_rnglists
-                0x0000077c       0xe0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+                0x0000078a       0xe0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
  .debug_rnglists
-                0x0000085c       0xaa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+                0x0000086a       0xaa CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
  .debug_rnglists
-                0x00000906       0xe0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+                0x00000914       0xe0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
  .debug_rnglists
-                0x000009e6      0x100 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+                0x000009f4      0x100 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
  .debug_rnglists
-                0x00000ae6       0x3f CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+                0x00000af4       0x3f CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
  .debug_rnglists
-                0x00000b25       0xeb CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+                0x00000b33       0xeb CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
  .debug_rnglists
-                0x00000c10       0x1a CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+                0x00000c1e       0x1a CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
  .debug_rnglists
-                0x00000c2a       0x19 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+                0x00000c38       0x19 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
 
-.debug_macro    0x00000000    0x1d513
- .debug_macro   0x00000000      0x35e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0000035e      0xa8a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00000de8      0x12a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00000f12       0x2e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00000f40       0x28 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00000f68       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00000f8a       0x8e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00001018       0x51 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00001069      0x103 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0000116c       0x6a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000011d6      0x1df CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000013b5       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000013d1       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000013f3       0xd1 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000014c4      0x4da CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0000199e      0x11f CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00001abd     0xf3de CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00010e9b       0x66 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00010f01     0x350e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001440f      0x189 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00014598       0x5c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000145f4      0x72c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00014d20     0x1579 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00016299      0x535 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000167ce      0x1cf CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001699d      0x25b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00016bf8      0x4f5 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000170ed      0x280 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001736d      0x417 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00017784      0x1b2 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00017936       0x43 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00017979      0x1f1 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00017b6a      0x1e4 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00017d4e      0x3fa CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018148       0x28 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018170      0x123 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018293      0x224 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x000184b7      0x169 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018620      0x145 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018765      0x30b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00018a70      0xae5 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019555      0x239 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001978e      0x5df CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019d6d       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019d89       0x74 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019dfd       0x24 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019e21       0x3c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019e5d       0x34 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019e91       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019ea7       0x43 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019eea       0x34 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019f1e       0x10 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019f2e       0x58 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x00019f86      0x1de CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a164      0x369 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a4cd      0x19b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a668       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a67e       0x35 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a6b3       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a6c9       0x29 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a6f2       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a714       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a72a       0x20 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a74a       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a766       0x10 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a776       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a792       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a7a8      0x170 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a918       0x2e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_macro   0x0001a946      0x381 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .debug_macro   0x0001acc7      0x234 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
- .debug_macro   0x0001aefb      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
- .debug_macro   0x0001b103      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
- .debug_macro   0x0001b30b      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
- .debug_macro   0x0001b513      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
- .debug_macro   0x0001b71b      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_macro   0x0001b923      0x1fe CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_macro   0x0001bb21      0x1f7 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_macro   0x0001bd18      0x1f5 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_macro   0x0001bf0d      0x237 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_macro   0x0001c144      0x207 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_macro   0x0001c34b      0x1f6 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_macro   0x0001c541      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_macro   0x0001c730      0x219 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_macro   0x0001c949      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_macro   0x0001cb38      0x213 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_macro   0x0001cd4b      0x1fb CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
- .debug_macro   0x0001cf46      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
- .debug_macro   0x0001d135      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
- .debug_macro   0x0001d324      0x1ef CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+.debug_macro    0x00000000    0x1d519
+ .debug_macro   0x00000000      0x364 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000364      0xa8a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000dee      0x12a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000f18       0x2e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000f46       0x28 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000f6e       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00000f90       0x8e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0000101e       0x51 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0000106f      0x103 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00001172       0x6a CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000011dc      0x1df CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000013bb       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000013d7       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000013f9       0xd1 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000014ca      0x4da CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000019a4      0x11f CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00001ac3     0xf3de CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00010ea1       0x66 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00010f07     0x350e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00014415      0x189 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001459e       0x5c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000145fa      0x72c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00014d26     0x1579 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001629f      0x535 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000167d4      0x1cf CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000169a3      0x25b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00016bfe      0x4f5 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000170f3      0x280 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00017373      0x417 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001778a      0x1b2 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001793c       0x43 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001797f      0x1f1 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00017b70      0x1e4 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00017d54      0x3fa CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001814e       0x28 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00018176      0x123 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00018299      0x224 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x000184bd      0x169 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00018626      0x145 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001876b      0x30b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00018a76      0xae5 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001955b      0x239 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019794      0x5df CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019d73       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019d8f       0x74 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019e03       0x24 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019e27       0x3c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019e63       0x34 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019e97       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019ead       0x43 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019ef0       0x34 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019f24       0x10 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019f34       0x58 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x00019f8c      0x1de CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a16a      0x369 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a4d3      0x19b CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a66e       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a684       0x35 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a6b9       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a6cf       0x29 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a6f8       0x22 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a71a       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a730       0x20 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a750       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a76c       0x10 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a77c       0x1c CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a798       0x16 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a7ae      0x170 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a91e       0x2e CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_macro   0x0001a94c      0x381 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .debug_macro   0x0001accd      0x234 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_macro   0x0001af01      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_macro   0x0001b109      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_macro   0x0001b311      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_macro   0x0001b519      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_macro   0x0001b721      0x208 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_macro   0x0001b929      0x1fe CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_macro   0x0001bb27      0x1f7 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_macro   0x0001bd1e      0x1f5 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_macro   0x0001bf13      0x237 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_macro   0x0001c14a      0x207 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_macro   0x0001c351      0x1f6 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_macro   0x0001c547      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_macro   0x0001c736      0x219 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_macro   0x0001c94f      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_macro   0x0001cb3e      0x213 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_macro   0x0001cd51      0x1fb CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_macro   0x0001cf4c      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_macro   0x0001d13b      0x1ef CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_macro   0x0001d32a      0x1ef CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
 
-.debug_line     0x00000000    0x13a7c
- .debug_line    0x00000000      0x87f CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
- .debug_line    0x0000087f      0xff1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
- .debug_line    0x00001870      0x7c5 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
- .debug_line    0x00002035      0x701 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
- .debug_line    0x00002736      0x6ef CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
- .debug_line    0x00002e25      0x82b CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
- .debug_line    0x00003650      0x781 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
- .debug_line    0x00003dd1      0x7a0 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
- .debug_line    0x00004571      0x6f4 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
- .debug_line    0x00004c65     0x3ce8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
- .debug_line    0x0000894d     0x1c68 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
- .debug_line    0x0000a5b5      0xf1e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
- .debug_line    0x0000b4d3     0x115d CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
- .debug_line    0x0000c630      0xb39 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
- .debug_line    0x0000d169      0xe39 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
- .debug_line    0x0000dfa2      0xb8d CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
- .debug_line    0x0000eb2f      0xb41 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
- .debug_line    0x0000f670      0xacc CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
- .debug_line    0x0001013c     0x1407 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
- .debug_line    0x00011543      0x889 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
- .debug_line    0x00011dcc     0x14cf CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
- .debug_line    0x0001329b      0x766 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
- .debug_line    0x00013a01       0x7b CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+.debug_line     0x00000000    0x13b30
+ .debug_line    0x00000000      0x933 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+ .debug_line    0x00000933      0xff1 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+ .debug_line    0x00001924      0x7c5 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_line    0x000020e9      0x701 CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000027ea      0x6ef CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_line    0x00002ed9      0x82b CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_line    0x00003704      0x781 CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_line    0x00003e85      0x7a0 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_line    0x00004625      0x6f4 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_line    0x00004d19     0x3ce8 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_line    0x00008a01     0x1c68 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_line    0x0000a669      0xf1e CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_line    0x0000b587     0x115d CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000c6e4      0xb39 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_line    0x0000d21d      0xe39 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_line    0x0000e056      0xb8d CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000ebe3      0xb41 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_line    0x0000f724      0xacc CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_line    0x000101f0     0x1407 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_line    0x000115f7      0x889 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_line    0x00011e80     0x14cf CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_line    0x0001334f      0x766 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_line    0x00013ab5       0x7b CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
 
-.debug_str      0x00000000    0xb9683
- .debug_str     0x00000000    0xb47ca CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
-                              0xb4edd (size before relaxing)
- .debug_str     0x000b47ca      0x870 CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
+.debug_str      0x00000000    0xb96f8
+ .debug_str     0x00000000    0xb4871 CMakeFiles/NeoBalsam.dir/User/app_main.c.obj
+                              0xb4f84 (size before relaxing)
+ .debug_str     0x000b4871      0x83e CMakeFiles/NeoBalsam.dir/User/ARGB.c.obj
                               0xb5722 (size before relaxing)
- .debug_str     0x000b503a      0x226 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
+ .debug_str     0x000b50af      0x226 CMakeFiles/NeoBalsam.dir/Core/Src/main.c.obj
                               0xb13f4 (size before relaxing)
- .debug_str     0x000b5260       0x6b CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
+ .debug_str     0x000b52d5       0x6b CMakeFiles/NeoBalsam.dir/Core/Src/gpio.c.obj
                               0xb1335 (size before relaxing)
- .debug_str     0x000b52cb      0x274 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
+ .debug_str     0x000b5340      0x274 CMakeFiles/NeoBalsam.dir/Core/Src/dma.c.obj
                               0xb14cc (size before relaxing)
- .debug_str     0x000b553f      0x4ef CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
+ .debug_str     0x000b55b4      0x4ef CMakeFiles/NeoBalsam.dir/Core/Src/tim.c.obj
                               0xb208f (size before relaxing)
- .debug_str     0x000b5a2e      0x3ab CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
+ .debug_str     0x000b5aa3      0x3ab CMakeFiles/NeoBalsam.dir/Core/Src/usb_drd_fs.c.obj
                               0xb1889 (size before relaxing)
- .debug_str     0x000b5dd9      0x106 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
+ .debug_str     0x000b5e4e      0x106 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_it.c.obj
                               0xb1887 (size before relaxing)
- .debug_str     0x000b5edf       0x60 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
+ .debug_str     0x000b5f54       0x60 CMakeFiles/NeoBalsam.dir/Core/Src/stm32g0xx_hal_msp.c.obj
                               0xb128b (size before relaxing)
- .debug_str     0x000b5f3f      0xd99 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
+ .debug_str     0x000b5fb4      0xd99 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim.c.obj
                               0xb27c2 (size before relaxing)
- .debug_str     0x000b6cd8      0x523 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
+ .debug_str     0x000b6d4d      0x523 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_tim_ex.c.obj
                               0xb2150 (size before relaxing)
- .debug_str     0x000b71fb      0x623 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
+ .debug_str     0x000b7270      0x623 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc.c.obj
                               0xb1a25 (size before relaxing)
- .debug_str     0x000b781e      0x381 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
+ .debug_str     0x000b7893      0x381 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_rcc_ex.c.obj
                               0xb18b5 (size before relaxing)
- .debug_str     0x000b7b9f      0x1a0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
+ .debug_str     0x000b7c14      0x1a0 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_gpio.c.obj
                               0xb13bc (size before relaxing)
- .debug_str     0x000b7d3f      0x260 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
+ .debug_str     0x000b7db4      0x260 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_dma.c.obj
                               0xb1709 (size before relaxing)
- .debug_str     0x000b7f9f      0x3d4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
+ .debug_str     0x000b8014      0x3d4 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pwr_ex.c.obj
                               0xb17db (size before relaxing)
- .debug_str     0x000b8373      0x2ae CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
+ .debug_str     0x000b83e8      0x2ae CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_cortex.c.obj
                               0xb176a (size before relaxing)
- .debug_str     0x000b8621      0x4da CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
+ .debug_str     0x000b8696      0x4da CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c.obj
                               0xb1b32 (size before relaxing)
- .debug_str     0x000b8afb      0x5b3 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
+ .debug_str     0x000b8b70      0x5b3 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd.c.obj
                               0xb1b37 (size before relaxing)
- .debug_str     0x000b90ae      0x199 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
+ .debug_str     0x000b9123      0x199 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal_pcd_ex.c.obj
                               0xb1708 (size before relaxing)
- .debug_str     0x000b9247      0x3a1 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
+ .debug_str     0x000b92bc      0x3a1 CMakeFiles/NeoBalsam.dir/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_ll_usb.c.obj
                               0xb18df (size before relaxing)
- .debug_str     0x000b95e8       0x53 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
+ .debug_str     0x000b965d       0x53 CMakeFiles/NeoBalsam.dir/Core/Src/system_stm32g0xx.c.obj
                               0xb1259 (size before relaxing)
- .debug_str     0x000b963b       0x48 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
+ .debug_str     0x000b96b0       0x48 CMakeFiles/NeoBalsam.dir/startup_stm32g0b1xx.s.obj
                                  0x6a (size before relaxing)
 
 .debug_line_str
