@@ -9,33 +9,20 @@ extern DMA_HandleTypeDef hdma_tim1_ch1;
 
 #define FRAME_DELAY_MS 50 
 
-uint8_t get_sine_brightness(float freq){
-    HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_RESET);
-    static uint32_t lastTick = 0 ;
-    uint32_t currentTick = HAL_GetTick();
-    
+#define STAR_PIXEL 14
 
-    int period = 1 / freq * 1000.0f;
-    float elapsedTime = (currentTick - lastTick) / 1000.0f;
-    if (elapsedTime >=  period / 1000.0f) {
-        lastTick = currentTick;
-        elapsedTime = 0.0f;
-    }
+typedef enum {
+    SHOW_OFF        =   0,
+    SHOW_BREATHING  =   1,
+    SHOW_INTENSE    =   2,
+    SHOW_RAINBOW    =   3,
+    NUM_OF_SHOWS    
+} t_ShowType;
 
-    float sineValue = sinf(2 * M_PI * freq * elapsedTime);
-    // Map sine wave from [-1, 1] to [0, 255]
-    uint8_t ledBrightness = (uint8_t)((sineValue + 1.00f) * 127.5f);    // 127.5f
-    
-    HAL_GPIO_WritePin(LED1_GPIO_Port, LED1_Pin, GPIO_PIN_SET);
+t_ShowType currentShow = 0;
 
-    return ledBrightness;
-}
 
-void global_brightness_sweep(){
-    uint8_t ledBrightness = get_sine_brightness(0.2f);
-    ARGB_SetBrightness(ledBrightness);
-    ARGB_FillRGB(20, 0, 0); // Fill all the strip with Red
-}
+
 
 void app_init(){
     return;
@@ -52,7 +39,68 @@ static uint8_t oscillateBrightness(float t, float period, uint8_t minVal, uint8_
     return (uint8_t)(minVal + sineVal * range);
 }
 
+void show_off (uint32_t frame){
+    (void)frame;
+    
+}
+
+void show_breathing (uint32_t frame){
+    float t = (float)frame;
+
+    // Star at LED 14
+    uint8_t starVal = oscillateBrightness(t, 100.0f, 50, 255); 
+    ARGB_SetHSV(STAR_PIXEL, 43, 255, starVal);
+
+    // Ornaments (0-13)
+    for (uint16_t i = 0; i < NUM_PIXELS - 1; i++) {
+        uint8_t hue = (i % 2 == 0) ? 0 : 85; // Red/Green
+        uint8_t sat = 255;
+        float offset = i * 7.0f;
+        uint8_t val = oscillateBrightness(t + offset, 200.0f, 20, 220);
+        ARGB_SetHSV(i, hue, sat, val);
+    }
+}
+
+void show_intense (uint32_t frame){
+    float t = (float)frame;
+
+    // Star at LED 14: faster twinkle
+    uint8_t starVal = oscillateBrightness(t, 60.0f, 0, 255);
+    ARGB_SetHSV(STAR_PIXEL, 43, 255, starVal);
+
+    // Ornaments (0-13)
+    for (uint16_t i = 0; i < NUM_PIXELS - 1; i++) {
+        uint8_t hue = (i % 2 == 0) ? 0 : 85; // Red/Green
+        uint8_t sat = 255;
+        float offset = i * 5.0f; 
+        uint8_t val = oscillateBrightness(t + offset, 120.0f, 0, 255);
+        ARGB_SetHSV(i, hue, sat, val);
+    }
+}
+
+void show_rainbow_fade(uint32_t frame) {
+    // The HSV hue is typically 0-255 for a full cycle of colors.
+    // Let's pick a base hue that shifts over time, causing the rainbow to move.
+    uint8_t baseHue = (uint8_t)(frame % 256); 
+
+    // Iterate over each LED and assign a hue offset based on its index.
+    for (uint16_t i = 0; i < NUM_PIXELS; i++) {
+        // Spread the rainbow evenly across all LEDs.
+        // For a continuous rainbow, let's map the LED index so that 
+        // the entire strip covers 256 hue steps. 
+        // If NUM_LEDS is small, this may repeat colors, but it still creates a gradient.
+        uint8_t hueOffset = (uint8_t)((256UL * i) / NUM_PIXELS);
+        uint8_t hue = (uint8_t)(baseHue + hueOffset);
+        uint8_t saturation = 255;
+        uint8_t value = 255;
+
+        ARGB_SetHSV(i, hue, saturation, value);
+    }
+}
+
 void app_main(){
+    
+    HAL_NVIC_EnableIRQ(EXTI0_1_IRQn);
 
     ARGB_Init();  // Initialization
     ARGB_SetBrightness(128); // Set a moderate global brightness (0-255)
@@ -63,31 +111,30 @@ void app_main(){
        // Wait for strip to be ready
         while (ARGB_Ready() != ARGB_READY) { }
 
-        float t = (float)frame;
-
-        // The star is at LED 14 (the 15th pixel)
-        // Let's give it a twinkling warm glow
-        uint8_t starVal = oscillateBrightness(t, 60.0f, 50, 255); 
-        // Use a warm hue (e.g., Hue = 43°, full saturation, variable brightness)
-        ARGB_SetHSV(14, 43, 255, starVal);
-
-        // The ornaments: LEDs 0 to 13
-        // Alternate red/green and give them a breathing effect
-        for (uint16_t i = 0; i < NUM_PIXELS - 1; i++) {
-            uint8_t hue = (i % 2 == 0) ? 0 : 85;  // Red or Green
-            uint8_t sat = 255;
-
-            // Adjust offset for variation
-            float offset = i * 5.0f; 
-            uint8_t val = oscillateBrightness(t + offset, 120.0f, 0, 255);
-
-            ARGB_SetHSV(i, hue, sat, val);
+        switch (currentShow) {
+            case SHOW_OFF:
+                show_off(frame);
+                break;
+            case SHOW_BREATHING:
+                show_breathing(frame);
+                break;
+            case SHOW_INTENSE:
+                show_intense(frame);
+                break;
+            case SHOW_RAINBOW:
+                show_rainbow_fade(frame);
+            default:
+                break;
         }
 
         ARGB_Show();
-
         HAL_Delay(FRAME_DELAY_MS);
         frame++;
     }
 }
 
+void HAL_GPIO_EXTI_Rising_Callback(uint16_t GPIO_Pin) {
+    if (GPIO_Pin == USER_BUTTON_Pin){
+        currentShow = (currentShow + 1) % NUM_OF_SHOWS;
+    }
+}
