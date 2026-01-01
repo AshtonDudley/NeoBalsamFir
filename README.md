@@ -42,15 +42,17 @@ Only the **first tree in the chain** requires a microcontroller. All additional 
 * Right Button:
 
   * Cycle through LED animation modes
-  * Toggle effects or patterns (firmware-dependent)
+  * Toggle effects or patterns
 
 * Left Button:
 
-  * Toggle the device on and off
+  * Toggle the microcontrollers power
 
 ## Status
 
-This project is intended as a fun, embedded-hardware LED display and firmware project. Feel free to copy and build your own!
+This project is a fun, embedded-hardware LED display and firmware project used to learn about the WS2812B. 
+No major updates are currently planned.
+Feel free to copy/derive to build your own!
 
 ## Images
 
