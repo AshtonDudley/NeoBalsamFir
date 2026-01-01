@@ -1,6 +1,56 @@
-# NeoBalsamFir
+# NeoBalsamFir 🎄
+
+**NeoBalsamFir** is a USB-C powered, daisy-chainable LED board shaped like a Christmas tree, built around an **STM32G0B1** microcontroller and **WS2812B (NeoPixel)** LEDs.
+
+Each tree features individually addressable RGB LEDs and can be linked together to form larger animated displays using a simple 3-wire interface.
+
+## Features
+
+* 🎄 Christmas tree–shaped PCB
+* 🌈 Individually addressable WS2812B LEDs
+* 🔗 Daisy-chainable (Power, Ground, Data)
+* 🔌 USB-C input (5 V from any USB power brick or battery bank)
+* 🎛 On-board power and toggle button to cycle LED modes
+
+## Architecture
+
+* **Host Tree**
+
+  * Contains the STM32G0B1 microcontroller
+  * Handles LED animation generation
+  * Includes cycle and power off buttons.
+  * Drives the LED data line for the entire chain
+
+* **Follower Trees**
+
+  * No microcontroller required
+  * Pass-through boards with LEDs only
+  * Connect to **5 V**, **GND**, and **Data**
+  * Receive LED data from the host tree
+
+Only the **first tree in the chain** requires a microcontroller. All additional trees operate as passive LED extensions.
+
+## Power
+
+* Input: **USB-C, 5 V**
+* Compatible with standard USB power adapters and battery banks
+* Power is distributed through the daisy chain
+
+## Controls
 
 
+* Right Button:
+
+  * Cycle through LED animation modes
+  * Toggle effects or patterns (firmware-dependent)
+
+* Left Button:
+
+  * Toggle the device on and off
+
+## Status
+
+This project is intended as a fun, embedded-hardware LED display and firmware project. Feel free to copy and build your own!
 
 ## Images
 
